@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="bg_rounded_input_field">#808080</drawable>
+</resources>
